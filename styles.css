@@ -38,7 +38,7 @@ img{
 .output, .input {
     white-space: pre-wrap;
     word-wrap: break-word;
-    padding-left: .5rem;
+    /* padding-left: .5rem; */
 }
 
 .input:focus {
